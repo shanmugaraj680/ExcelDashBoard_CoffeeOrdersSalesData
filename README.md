@@ -1,4 +1,4 @@
 # ExcelDashBoard_CoffeeOrdersSalesData
 Dashboard Creation
 
-!ExcelDashboard.png
+![Portfolio Dashboard](ExcelDashboard.png)
